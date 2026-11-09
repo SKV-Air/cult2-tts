@@ -1,7 +1,7 @@
 {
   "SaveName": "Cult2-Pole12",
-  "EpochTime": 1794240468,
-  "Date": "11/9/2026, 7:07:48 PM",
+  "EpochTime": 1794247537,
+  "Date": "11/9/2026, 9:05:37 PM",
   "VersionNumber": "v14.2.1",
   "GameMode": "Cult2-Pole12",
   "GameType": "Game",
@@ -7732,7 +7732,7 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+          "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
           "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
           "NumWidth": 4,
           "NumHeight": 3,
@@ -7756,7 +7756,7 @@
             "scaleY": 1,
             "scaleZ": 1.1666666666666667
           },
-          "Nickname": "Домен",
+          "Nickname": "Новый День",
           "Description": "",
           "GMNotes": "",
           "AltLookAngle": {
@@ -7790,7 +7790,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -7848,7 +7848,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -7906,7 +7906,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -7964,7 +7964,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -8022,7 +8022,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -8080,7 +8080,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -8138,7 +8138,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -8196,7 +8196,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -8254,7 +8254,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -8312,7 +8312,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -8370,7 +8370,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -8394,7 +8394,7 @@
             "scaleY": 1,
             "scaleZ": 1.1666666666666667
           },
-          "Nickname": "Новый День",
+          "Nickname": "Домен",
           "Description": "",
           "GMNotes": "",
           "AltLookAngle": {
@@ -8428,7 +8428,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -8452,7 +8452,7 @@
             "scaleY": 1,
             "scaleZ": 1.1666666666666667
           },
-          "Nickname": "Новый День",
+          "Nickname": "Домен",
           "Description": "",
           "GMNotes": "",
           "AltLookAngle": {
@@ -8486,7 +8486,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -8510,7 +8510,7 @@
             "scaleY": 1,
             "scaleZ": 1.1666666666666667
           },
-          "Nickname": "Новый День",
+          "Nickname": "Домен",
           "Description": "",
           "GMNotes": "",
           "AltLookAngle": {
@@ -8544,7 +8544,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -8602,7 +8602,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -8660,7 +8660,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -8718,7 +8718,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -8776,7 +8776,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -8834,7 +8834,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -8892,7 +8892,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -8950,7 +8950,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -9008,7 +9008,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -9066,7 +9066,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -9124,7 +9124,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
@@ -9182,7 +9182,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_072785.jpg",
+              "FaceURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_faces_93fc2f.jpg",
               "BackURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p12/deck_green_back_7dbc61.jpg",
               "NumWidth": 4,
               "NumHeight": 3,
