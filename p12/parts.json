@@ -37,7 +37,7 @@
                   {
                       "id":  "yellow",
                       "name":  "Жёлтая колода",
-                      "faces":  "deck_yellow_faces_4884f5.jpg",
+                      "faces":  "deck_yellow_faces_fcb17c.jpg",
                       "back":  "deck_yellow_back_bb1e60.jpg",
                       "cards":  [
                                     "Механоиды",
@@ -71,11 +71,11 @@
                   {
                       "id":  "green",
                       "name":  "Зелёная колода",
-                      "faces":  "deck_green_faces_93fc2f.jpg",
+                      "faces":  "deck_green_faces_342237.jpg",
                       "back":  "deck_green_back_7dbc61.jpg",
                       "cards":  [
                                     "Новый День",
-                                    "Бойня",
+                                    "Диверсия",
                                     "Оазис",
                                     "Пекло",
                                     "Энергия Атома",
@@ -84,7 +84,7 @@
                                     "Домен",
                                     "Аномалии",
                                     "Конец Тьмы",
-                                    "Диверсия"
+                                    "Бойня"
                                 ],
                       "copies":  [
                                      1,
