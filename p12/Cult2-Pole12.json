@@ -1,7 +1,7 @@
 {
   "SaveName": "Cult2-Pole12",
-  "EpochTime": 1794239434,
-  "Date": "11/9/2026, 6:50:34 PM",
+  "EpochTime": 1794240468,
+  "Date": "11/9/2026, 7:07:48 PM",
   "VersionNumber": "v14.2.1",
   "GameMode": "Cult2-Pole12",
   "GameType": "Game",
@@ -1543,13 +1543,13 @@
         "rotX": 0,
         "rotY": 180,
         "rotZ": 0,
-        "scaleX": 1.3490506329113925,
+        "scaleX": 1.79873417721519,
         "scaleY": 1,
-        "scaleZ": 1.3125
+        "scaleZ": 1.75
       },
       "Nickname": "Планшет: Крыса",
       "Description": "",
-      "GMNotes": "size:2.698x2.625",
+      "GMNotes": "size:3.597x3.500",
       "AltLookAngle": {
         "x": 0,
         "y": 0,
@@ -2194,13 +2194,13 @@
         "rotX": 0,
         "rotY": 180,
         "rotZ": 0,
-        "scaleX": 1.3490506329113925,
+        "scaleX": 1.79873417721519,
         "scaleY": 1,
-        "scaleZ": 1.3125
+        "scaleZ": 1.75
       },
       "Nickname": "Планшет: Таракан",
       "Description": "",
-      "GMNotes": "size:2.698x2.625",
+      "GMNotes": "size:3.597x3.500",
       "AltLookAngle": {
         "x": 0,
         "y": 0,
@@ -2788,13 +2788,13 @@
         "rotX": 0,
         "rotY": 180,
         "rotZ": 0,
-        "scaleX": 1.3490506329113925,
+        "scaleX": 1.79873417721519,
         "scaleY": 1,
-        "scaleZ": 1.3125
+        "scaleZ": 1.75
       },
       "Nickname": "Планшет: Ворона",
       "Description": "",
-      "GMNotes": "size:2.698x2.625",
+      "GMNotes": "size:3.597x3.500",
       "AltLookAngle": {
         "x": 0,
         "y": 0,
@@ -3382,13 +3382,13 @@
         "rotX": 0,
         "rotY": 0,
         "rotZ": 0,
-        "scaleX": 1.3490506329113925,
+        "scaleX": 1.79873417721519,
         "scaleY": 1,
-        "scaleZ": 1.3125
+        "scaleZ": 1.75
       },
       "Nickname": "Планшет: Ящер",
       "Description": "",
-      "GMNotes": "size:2.698x2.625",
+      "GMNotes": "size:3.597x3.500",
       "AltLookAngle": {
         "x": 0,
         "y": 0,
@@ -3976,13 +3976,13 @@
         "rotX": 0,
         "rotY": 0,
         "rotZ": 0,
-        "scaleX": 1.3507120253164557,
+        "scaleX": 1.8009493670886076,
         "scaleY": 1,
-        "scaleZ": 1.3125
+        "scaleZ": 1.75
       },
       "Nickname": "Планшет: Обезьяна",
       "Description": "",
-      "GMNotes": "size:2.701x2.625",
+      "GMNotes": "size:3.602x3.500",
       "AltLookAngle": {
         "x": 0,
         "y": 0,
@@ -9211,19 +9211,19 @@
       "GUID": "c2007d",
       "Name": "Custom_Tile",
       "Transform": {
-        "posX": -16.595,
+        "posX": -15.585,
         "posY": 1.7800000000000005,
         "posZ": 0,
         "rotX": 0,
         "rotY": 180,
         "rotZ": 0,
-        "scaleX": 4.040254237288136,
+        "scaleX": 3.0301906779661016,
         "scaleY": 1,
-        "scaleZ": 1.75
+        "scaleZ": 1.3125
       },
       "Nickname": "Планшет подсказок",
       "Description": "",
-      "GMNotes": "size:8.081x3.500;settle",
+      "GMNotes": "size:6.060x2.625;settle",
       "AltLookAngle": {
         "x": 0,
         "y": 0,
