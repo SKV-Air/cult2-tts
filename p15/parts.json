@@ -1,0 +1,338 @@
+﻿{
+    "decks":  [
+                  {
+                      "id":  "red",
+                      "name":  "Красная колода",
+                      "faces":  "deck_red_faces_1c2910.jpg",
+                      "back":  "deck_red_back_1f2631.jpg",
+                      "cards":  [
+                                    "Оружие",
+                                    "Склепы",
+                                    "Свалка",
+                                    "Лагерь Экспедиции",
+                                    "Багги",
+                                    "Блокпост",
+                                    "Резерв",
+                                    "Окраина",
+                                    "Засада",
+                                    "Байк",
+                                    "Погоня"
+                                ],
+                      "copies":  [
+                                     1,
+                                     1,
+                                     1,
+                                     1,
+                                     1,
+                                     3,
+                                     3,
+                                     3,
+                                     3,
+                                     3,
+                                     5
+                                 ],
+                      "w":  2436,
+                      "h":  2354
+                  },
+                  {
+                      "id":  "yellow",
+                      "name":  "Жёлтая колода",
+                      "faces":  "deck_yellow_faces_ce31ce.jpg",
+                      "back":  "deck_yellow_back_bb1e60.jpg",
+                      "cards":  [
+                                    "Механоиды",
+                                    "Фермы",
+                                    "Хищные города",
+                                    "Зачистка",
+                                    "Канализация",
+                                    "Коммуникации",
+                                    "Эпицентр",
+                                    "Заражение",
+                                    "Промзона",
+                                    "Торжище",
+                                    "Налетчики"
+                                ],
+                      "copies":  [
+                                     1,
+                                     1,
+                                     1,
+                                     1,
+                                     1,
+                                     3,
+                                     3,
+                                     3,
+                                     3,
+                                     3,
+                                     5
+                                 ],
+                      "w":  2436,
+                      "h":  2354
+                  },
+                  {
+                      "id":  "green",
+                      "name":  "Зелёная колода",
+                      "faces":  "deck_green_faces_073f04.jpg",
+                      "back":  "deck_green_back_7dbc61.jpg",
+                      "cards":  [
+                                    "Новый День",
+                                    "Диверсия",
+                                    "Оазис",
+                                    "Пекло",
+                                    "Энергия Атома",
+                                    "Сады Предтеч",
+                                    "Мир Мутантов",
+                                    "Домен",
+                                    "Аномалии",
+                                    "Конец Тьмы",
+                                    "Бойня"
+                                ],
+                      "copies":  [
+                                     1,
+                                     1,
+                                     1,
+                                     1,
+                                     1,
+                                     3,
+                                     3,
+                                     3,
+                                     3,
+                                     3,
+                                     5
+                                 ],
+                      "w":  2436,
+                      "h":  2354
+                  }
+              ],
+    "expedition":  {
+                       "name":  "Экспедиция",
+                       "face":  "expedition_1_3c16d5.jpg",
+                       "back":  "expedition_2_0045c4.jpg",
+                       "w":  2436,
+                       "h":  2354
+                   },
+    "bonus":  {
+                  "name":  "Жетон +3 / +5",
+                  "face":  "bonus_3_550c98.jpg",
+                  "back":  "bonus_5_fed17f.jpg",
+                  "w":  579,
+                  "h":  579,
+                  "copies":  5,
+                  "round":  true
+              },
+    "factions":  [
+                     {
+                         "id":  "krysa",
+                         "name":  "Крыса",
+                         "color":  "чёрный",
+                         "board":  {
+                                       "name":  "Планшет: Крыса",
+                                       "face":  "board_krysa_1_498359.jpg",
+                                       "back":  "board_krysa_2_c2f30d.jpg",
+                                       "w":  2436,
+                                       "h":  2370
+                                   },
+                         "tokens":  [
+                                        {
+                                            "name":  "Отряд чёрный 1",
+                                            "face":  "tok_black_1_icon_b5f716.jpg",
+                                            "back":  "tok_black_1_plain_46fb2f.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        },
+                                        {
+                                            "name":  "Отряд чёрный 2",
+                                            "face":  "tok_black_2_icon_84ee25.jpg",
+                                            "back":  "tok_black_2_plain_c6edca.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        },
+                                        {
+                                            "name":  "Отряд чёрный 3",
+                                            "face":  "tok_black_3_icon_b7445d.jpg",
+                                            "back":  "tok_black_3_plain_627b9e.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        },
+                                        {
+                                            "name":  "Отряд чёрный 4",
+                                            "face":  "tok_black_4_icon_00fbd8.jpg",
+                                            "back":  "tok_black_4_plain_021eee.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        }
+                                    ]
+                     },
+                     {
+                         "id":  "tarakan",
+                         "name":  "Таракан",
+                         "color":  "охра",
+                         "board":  {
+                                       "name":  "Планшет: Таракан",
+                                       "face":  "board_tarakan_1_b95c85.jpg",
+                                       "back":  "board_tarakan_2_fcbb36.jpg",
+                                       "w":  2436,
+                                       "h":  2370
+                                   },
+                         "tokens":  [
+                                        {
+                                            "name":  "Отряд охра 1",
+                                            "face":  "tok_ochre_1_icon_41c349.jpg",
+                                            "back":  "tok_ochre_1_plain_ddd57b.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        },
+                                        {
+                                            "name":  "Отряд охра 2",
+                                            "face":  "tok_ochre_2_icon_88efa0.jpg",
+                                            "back":  "tok_ochre_2_plain_853702.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        },
+                                        {
+                                            "name":  "Отряд охра 3",
+                                            "face":  "tok_ochre_3_icon_849b73.jpg",
+                                            "back":  "tok_ochre_3_plain_90c149.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        },
+                                        {
+                                            "name":  "Отряд охра 4",
+                                            "face":  "tok_ochre_4_icon_2abafe.jpg",
+                                            "back":  "tok_ochre_4_plain_31c34b.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        }
+                                    ]
+                     },
+                     {
+                         "id":  "vorona",
+                         "name":  "Ворона",
+                         "color":  "светло-серый",
+                         "board":  {
+                                       "name":  "Планшет: Ворона",
+                                       "face":  "board_vorona_1_9f3bcc.jpg",
+                                       "back":  "board_vorona_2_8cee0f.jpg",
+                                       "w":  2436,
+                                       "h":  2370
+                                   },
+                         "tokens":  [
+                                        {
+                                            "name":  "Отряд светло-серый 1",
+                                            "face":  "tok_lightgray_1_icon_3d57b8.jpg",
+                                            "back":  "tok_lightgray_1_plain_12fcc6.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        },
+                                        {
+                                            "name":  "Отряд светло-серый 2",
+                                            "face":  "tok_lightgray_2_icon_c4c9cb.jpg",
+                                            "back":  "tok_lightgray_2_plain_b5ccb2.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        },
+                                        {
+                                            "name":  "Отряд светло-серый 3",
+                                            "face":  "tok_lightgray_3_icon_47ab77.jpg",
+                                            "back":  "tok_lightgray_3_plain_10c551.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        },
+                                        {
+                                            "name":  "Отряд светло-серый 4",
+                                            "face":  "tok_lightgray_4_icon_64e7c7.jpg",
+                                            "back":  "tok_lightgray_4_plain_ab8b78.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        }
+                                    ]
+                     },
+                     {
+                         "id":  "yashcher",
+                         "name":  "Ящер",
+                         "color":  "оливковый",
+                         "board":  {
+                                       "name":  "Планшет: Ящер",
+                                       "face":  "board_yashcher_1_1dc33a.jpg",
+                                       "back":  "board_yashcher_2_80ed3a.jpg",
+                                       "w":  2436,
+                                       "h":  2370
+                                   },
+                         "tokens":  [
+                                        {
+                                            "name":  "Отряд оливковый 1",
+                                            "face":  "tok_olive_1_icon_49def6.jpg",
+                                            "back":  "tok_olive_1_plain_7ce22a.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        },
+                                        {
+                                            "name":  "Отряд оливковый 2",
+                                            "face":  "tok_olive_2_icon_3f3fc9.jpg",
+                                            "back":  "tok_olive_2_plain_3fea17.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        },
+                                        {
+                                            "name":  "Отряд оливковый 3",
+                                            "face":  "tok_olive_3_icon_8bf5c7.jpg",
+                                            "back":  "tok_olive_3_plain_c55dc5.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        },
+                                        {
+                                            "name":  "Отряд оливковый 4",
+                                            "face":  "tok_olive_4_icon_a0af6f.jpg",
+                                            "back":  "tok_olive_4_plain_b59fe5.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        }
+                                    ]
+                     },
+                     {
+                         "id":  "obezyana",
+                         "name":  "Обезьяна",
+                         "color":  "синий",
+                         "board":  {
+                                       "name":  "Планшет: Обезьяна",
+                                       "face":  "board_obezyana_1_89b2a9.jpg",
+                                       "back":  "board_obezyana_2_3e2f09.jpg",
+                                       "w":  2439,
+                                       "h":  2370
+                                   },
+                         "tokens":  [
+                                        {
+                                            "name":  "Отряд синий 1",
+                                            "face":  "tok_blue_1_icon_bd65ad.jpg",
+                                            "back":  "tok_blue_1_plain_8e2076.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        },
+                                        {
+                                            "name":  "Отряд синий 2",
+                                            "face":  "tok_blue_2_icon_ab682a.jpg",
+                                            "back":  "tok_blue_2_plain_0bb339.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        },
+                                        {
+                                            "name":  "Отряд синий 3",
+                                            "face":  "tok_blue_3_icon_6713bc.jpg",
+                                            "back":  "tok_blue_3_plain_b733d0.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        },
+                                        {
+                                            "name":  "Отряд синий 4",
+                                            "face":  "tok_blue_4_icon_713dfe.jpg",
+                                            "back":  "tok_blue_4_plain_4ab4bb.jpg",
+                                            "w":  1182,
+                                            "h":  1182
+                                        }
+                                    ]
+                     }
+                 ],
+    "metal":  {
+                  "name":  "Металл",
+                  "image":  "metal_cf2bfb.png"
+              }
+}
