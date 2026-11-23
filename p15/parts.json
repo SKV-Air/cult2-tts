@@ -134,29 +134,29 @@
                          "tokens":  [
                                         {
                                             "name":  "Отряд чёрный 1",
-                                            "face":  "tok_black_1_icon_b5f716.jpg",
-                                            "back":  "tok_black_1_plain_46fb2f.jpg",
+                                            "face":  "tok_black_1_down_d7997d.jpg",
+                                            "back":  "tok_black_1_up_b5f716.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         },
                                         {
                                             "name":  "Отряд чёрный 2",
-                                            "face":  "tok_black_2_icon_84ee25.jpg",
-                                            "back":  "tok_black_2_plain_c6edca.jpg",
+                                            "face":  "tok_black_2_down_96dba3.jpg",
+                                            "back":  "tok_black_2_up_84ee25.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         },
                                         {
                                             "name":  "Отряд чёрный 3",
-                                            "face":  "tok_black_3_icon_b7445d.jpg",
-                                            "back":  "tok_black_3_plain_627b9e.jpg",
+                                            "face":  "tok_black_3_down_485c79.jpg",
+                                            "back":  "tok_black_3_up_b7445d.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         },
                                         {
                                             "name":  "Отряд чёрный 4",
-                                            "face":  "tok_black_4_icon_00fbd8.jpg",
-                                            "back":  "tok_black_4_plain_021eee.jpg",
+                                            "face":  "tok_black_4_down_d3c4c3.jpg",
+                                            "back":  "tok_black_4_up_00fbd8.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         }
@@ -176,29 +176,29 @@
                          "tokens":  [
                                         {
                                             "name":  "Отряд охра 1",
-                                            "face":  "tok_ochre_1_icon_41c349.jpg",
-                                            "back":  "tok_ochre_1_plain_ddd57b.jpg",
+                                            "face":  "tok_ochre_1_down_3a33ca.jpg",
+                                            "back":  "tok_ochre_1_up_41c349.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         },
                                         {
                                             "name":  "Отряд охра 2",
-                                            "face":  "tok_ochre_2_icon_88efa0.jpg",
-                                            "back":  "tok_ochre_2_plain_853702.jpg",
+                                            "face":  "tok_ochre_2_down_fe8dd1.jpg",
+                                            "back":  "tok_ochre_2_up_88efa0.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         },
                                         {
                                             "name":  "Отряд охра 3",
-                                            "face":  "tok_ochre_3_icon_849b73.jpg",
-                                            "back":  "tok_ochre_3_plain_90c149.jpg",
+                                            "face":  "tok_ochre_3_down_26a3fb.jpg",
+                                            "back":  "tok_ochre_3_up_849b73.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         },
                                         {
                                             "name":  "Отряд охра 4",
-                                            "face":  "tok_ochre_4_icon_2abafe.jpg",
-                                            "back":  "tok_ochre_4_plain_31c34b.jpg",
+                                            "face":  "tok_ochre_4_down_455eb4.jpg",
+                                            "back":  "tok_ochre_4_up_2abafe.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         }
@@ -218,29 +218,29 @@
                          "tokens":  [
                                         {
                                             "name":  "Отряд светло-серый 1",
-                                            "face":  "tok_lightgray_1_icon_3d57b8.jpg",
-                                            "back":  "tok_lightgray_1_plain_12fcc6.jpg",
+                                            "face":  "tok_lightgray_1_down_7d2fb5.jpg",
+                                            "back":  "tok_lightgray_1_up_3d57b8.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         },
                                         {
                                             "name":  "Отряд светло-серый 2",
-                                            "face":  "tok_lightgray_2_icon_c4c9cb.jpg",
-                                            "back":  "tok_lightgray_2_plain_b5ccb2.jpg",
+                                            "face":  "tok_lightgray_2_down_5b385c.jpg",
+                                            "back":  "tok_lightgray_2_up_c4c9cb.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         },
                                         {
                                             "name":  "Отряд светло-серый 3",
-                                            "face":  "tok_lightgray_3_icon_47ab77.jpg",
-                                            "back":  "tok_lightgray_3_plain_10c551.jpg",
+                                            "face":  "tok_lightgray_3_down_962d25.jpg",
+                                            "back":  "tok_lightgray_3_up_47ab77.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         },
                                         {
                                             "name":  "Отряд светло-серый 4",
-                                            "face":  "tok_lightgray_4_icon_64e7c7.jpg",
-                                            "back":  "tok_lightgray_4_plain_ab8b78.jpg",
+                                            "face":  "tok_lightgray_4_down_3ef905.jpg",
+                                            "back":  "tok_lightgray_4_up_64e7c7.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         }
@@ -260,29 +260,29 @@
                          "tokens":  [
                                         {
                                             "name":  "Отряд оливковый 1",
-                                            "face":  "tok_olive_1_icon_49def6.jpg",
-                                            "back":  "tok_olive_1_plain_7ce22a.jpg",
+                                            "face":  "tok_olive_1_down_3d4414.jpg",
+                                            "back":  "tok_olive_1_up_49def6.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         },
                                         {
                                             "name":  "Отряд оливковый 2",
-                                            "face":  "tok_olive_2_icon_3f3fc9.jpg",
-                                            "back":  "tok_olive_2_plain_3fea17.jpg",
+                                            "face":  "tok_olive_2_down_b509fb.jpg",
+                                            "back":  "tok_olive_2_up_3f3fc9.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         },
                                         {
                                             "name":  "Отряд оливковый 3",
-                                            "face":  "tok_olive_3_icon_8bf5c7.jpg",
-                                            "back":  "tok_olive_3_plain_c55dc5.jpg",
+                                            "face":  "tok_olive_3_down_c4e9e9.jpg",
+                                            "back":  "tok_olive_3_up_8bf5c7.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         },
                                         {
                                             "name":  "Отряд оливковый 4",
-                                            "face":  "tok_olive_4_icon_a0af6f.jpg",
-                                            "back":  "tok_olive_4_plain_b59fe5.jpg",
+                                            "face":  "tok_olive_4_down_d404e7.jpg",
+                                            "back":  "tok_olive_4_up_a0af6f.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         }
@@ -302,29 +302,29 @@
                          "tokens":  [
                                         {
                                             "name":  "Отряд синий 1",
-                                            "face":  "tok_blue_1_icon_bd65ad.jpg",
-                                            "back":  "tok_blue_1_plain_8e2076.jpg",
+                                            "face":  "tok_blue_1_down_6fa488.jpg",
+                                            "back":  "tok_blue_1_up_bd65ad.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         },
                                         {
                                             "name":  "Отряд синий 2",
-                                            "face":  "tok_blue_2_icon_ab682a.jpg",
-                                            "back":  "tok_blue_2_plain_0bb339.jpg",
+                                            "face":  "tok_blue_2_down_6e0ac3.jpg",
+                                            "back":  "tok_blue_2_up_ab682a.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         },
                                         {
                                             "name":  "Отряд синий 3",
-                                            "face":  "tok_blue_3_icon_6713bc.jpg",
-                                            "back":  "tok_blue_3_plain_b733d0.jpg",
+                                            "face":  "tok_blue_3_down_49a4aa.jpg",
+                                            "back":  "tok_blue_3_up_6713bc.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         },
                                         {
                                             "name":  "Отряд синий 4",
-                                            "face":  "tok_blue_4_icon_713dfe.jpg",
-                                            "back":  "tok_blue_4_plain_4ab4bb.jpg",
+                                            "face":  "tok_blue_4_down_f83a6c.jpg",
+                                            "back":  "tok_blue_4_up_713dfe.jpg",
                                             "w":  1182,
                                             "h":  1182
                                         }

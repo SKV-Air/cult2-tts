@@ -1,7 +1,7 @@
 {
   "SaveName": "Cult2-Pole15",
-  "EpochTime": 1795430887,
-  "Date": "11/23/2026, 1:48:07 PM",
+  "EpochTime": 1795431929,
+  "Date": "11/23/2026, 2:05:29 PM",
   "VersionNumber": "v14.2.1",
   "GameMode": "Cult2-Pole15",
   "GameType": "Game",
@@ -1635,8 +1635,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_black_1_icon_b5f716.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_black_1_plain_46fb2f.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_black_1_down_d7997d.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_black_1_up_b5f716.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -1705,8 +1705,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_black_2_icon_84ee25.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_black_2_plain_c6edca.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_black_2_down_96dba3.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_black_2_up_84ee25.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -1775,8 +1775,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_black_3_icon_b7445d.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_black_3_plain_627b9e.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_black_3_down_485c79.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_black_3_up_b7445d.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -1845,8 +1845,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_black_4_icon_00fbd8.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_black_4_plain_021eee.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_black_4_down_d3c4c3.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_black_4_up_00fbd8.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -2286,8 +2286,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_ochre_1_icon_41c349.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_ochre_1_plain_ddd57b.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_ochre_1_down_3a33ca.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_ochre_1_up_41c349.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -2356,8 +2356,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_ochre_2_icon_88efa0.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_ochre_2_plain_853702.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_ochre_2_down_fe8dd1.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_ochre_2_up_88efa0.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -2426,8 +2426,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_ochre_3_icon_849b73.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_ochre_3_plain_90c149.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_ochre_3_down_26a3fb.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_ochre_3_up_849b73.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -2496,8 +2496,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_ochre_4_icon_2abafe.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_ochre_4_plain_31c34b.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_ochre_4_down_455eb4.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_ochre_4_up_2abafe.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -2880,8 +2880,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_lightgray_1_icon_3d57b8.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_lightgray_1_plain_12fcc6.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_lightgray_1_down_7d2fb5.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_lightgray_1_up_3d57b8.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -2950,8 +2950,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_lightgray_2_icon_c4c9cb.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_lightgray_2_plain_b5ccb2.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_lightgray_2_down_5b385c.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_lightgray_2_up_c4c9cb.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -3020,8 +3020,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_lightgray_3_icon_47ab77.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_lightgray_3_plain_10c551.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_lightgray_3_down_962d25.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_lightgray_3_up_47ab77.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -3090,8 +3090,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_lightgray_4_icon_64e7c7.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_lightgray_4_plain_ab8b78.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_lightgray_4_down_3ef905.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_lightgray_4_up_64e7c7.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -3474,8 +3474,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_olive_1_icon_49def6.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_olive_1_plain_7ce22a.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_olive_1_down_3d4414.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_olive_1_up_49def6.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -3544,8 +3544,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_olive_2_icon_3f3fc9.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_olive_2_plain_3fea17.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_olive_2_down_b509fb.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_olive_2_up_3f3fc9.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -3614,8 +3614,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_olive_3_icon_8bf5c7.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_olive_3_plain_c55dc5.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_olive_3_down_c4e9e9.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_olive_3_up_8bf5c7.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -3684,8 +3684,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_olive_4_icon_a0af6f.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_olive_4_plain_b59fe5.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_olive_4_down_d404e7.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_olive_4_up_a0af6f.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -4068,8 +4068,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_blue_1_icon_bd65ad.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_blue_1_plain_8e2076.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_blue_1_down_6fa488.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_blue_1_up_bd65ad.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -4138,8 +4138,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_blue_2_icon_ab682a.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_blue_2_plain_0bb339.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_blue_2_down_6e0ac3.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_blue_2_up_ab682a.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -4208,8 +4208,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_blue_3_icon_6713bc.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_blue_3_plain_b733d0.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_blue_3_down_49a4aa.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_blue_3_up_6713bc.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
@@ -4278,8 +4278,8 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_blue_4_icon_713dfe.jpg",
-        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_blue_4_plain_4ab4bb.jpg",
+        "ImageURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_blue_4_down_f83a6c.jpg",
+        "ImageSecondaryURL": "https://raw.githubusercontent.com/SKV-Air/cult2-tts/main/p15/tok_blue_4_up_713dfe.jpg",
         "ImageScalar": 1,
         "WidthScale": 0,
         "CustomTile": {
